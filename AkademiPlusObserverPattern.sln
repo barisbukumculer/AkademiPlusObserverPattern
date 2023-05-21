@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkademiPlusObserverPattern", "AkademiPlusObserverPattern\AkademiPlusObserverPattern.csproj", "{EB2A00F2-AE34-425B-966A-C50E890FC952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB2A00F2-AE34-425B-966A-C50E890FC952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2A00F2-AE34-425B-966A-C50E890FC952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2A00F2-AE34-425B-966A-C50E890FC952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2A00F2-AE34-425B-966A-C50E890FC952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED797A2E-2F40-4074-B0AD-8F9F2EC95CB5}
+	EndGlobalSection
+EndGlobal
